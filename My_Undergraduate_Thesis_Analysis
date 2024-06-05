@@ -1,1 +1,45 @@
+Tool Used: Excel
+
+Methodology:
+ 1. Data Collection and Recording:
+   - Raw data from microbial tests and biochemical assays were recorded meticulously.
+   - Antimicrobial susceptibility results, including inhibitory zone diameters (IZD), were documented.
+
+ 2. Data Cleaning:
+   - The data was imported into Excel.
+   - Missing values and outliers were identified and handled appropriately.
+   - Data was validated for accuracy and consistency.
+
+ 3. Descriptive Analysis:
+   - Frequency Distribution: Calculated the frequency of different microorganisms isolated.
+   - Central Tendency:Computed mean and mode for various biochemical test results.
+ 
+
+ 4. Statistical Analysis:
+   - Chi-Square Test: Assessed the relationship between categorical variables (e.g., types of microorganisms and sample sources).
+   - Correlation Analysis: Evaluated relationships between biochemical test results and antimicrobial susceptibility.
+
+ 5. Inferential Analysis:
+   - Hypothesis Testing: Conducted tests to infer population parameters based on sample data.
+
+    6. Visualization:
+   - Created graphs and charts (e.g., bar charts, pie charts, line charts) to visualize data  distributions and relationships.
+   - Used pivot tables for dynamic data summarization and analysis.
+
+ 7. Interpretation and Reporting:
+   - Summarized findings in a comprehensive report, highlighting key insights from the analysis.
+   - Discussed implications of microbial presence and resistance patterns for clinical practice.
+
+ 8.Quality Assurance:
+   - Ensured reproducibility by documenting each step of the analysis process.
+   - Cross-checked results for consistency and reliability.
+
+
+Visualizations
+
+
+
+
+Recommendations
+
 
